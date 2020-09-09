@@ -1,1 +1,1 @@
-How to be up to date in git”
+ It’s time to code!
