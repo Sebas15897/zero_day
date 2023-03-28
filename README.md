@@ -1,4 +1,4 @@
-### 💻holbertonschool-zero_day💻
+### zero_day💻
 
 ### Author
 
